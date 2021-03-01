@@ -1,6 +1,6 @@
 public class DeviceButton {
 
-    /* INVOKER = The Invoker Device Button knows nothing, it doesn't know what Device or Command is being used */
+    /* INVOKER = The Invoker (AKA SENDER) Device Button knows nothing, it doesn't know what Device or Command is being used */
 
     Command theCommand;
 

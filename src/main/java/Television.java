@@ -1,5 +1,7 @@
 public class Television implements ElectronicDevice {
 
+    // ONE OF THE RECEIVERS
+
     private int volume = 0;
 
 
